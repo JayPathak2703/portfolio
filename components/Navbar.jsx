@@ -41,7 +41,7 @@ const Navbar = () => {
                         <AiOutlineClose />
                     </div>
                     <div className='border-b border-gray-300 my-4'>
-                        <p className='w-[85%] md:w-[90%] py-4'>Hey There ! Welcome to my portfolio</p>
+                        <p className='w-[85%] md:w-[90%] py-4'>Hey There! Welcome to my portfolio</p>
                     </div>
                     <div className='py-4 flex flex-col'>
                         <ul className='uppercase'>
@@ -66,7 +66,7 @@ const Navbar = () => {
                             </Link>
                         </ul>
                         <div className='pt-4 border-b border-black'>
-                            <p className='uppercase tracking-widest text-[#5651e5]'>Let's Stay In Touch !</p>
+                           <p className='uppercase tracking-widest text-[#5651e5]'>Let&apos;s Stay In Touch!</p>
                         </div>
                         <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                             <div className='rounded-full shadow-lg shadow-grey-400 p-3 cursonr-pointer - p-3 hover:scale-105 ease-in duration-300'>
