@@ -7,16 +7,15 @@ import Projects from "../components/Projects";
 import Contact from "../components/Contact";
 import "./globals.css";
 
-export default function Home() 
-{
-    return (
-        <div>
-            <Navbar />  
-            <MainPage />
-            <About />
-            <Skills />
-            <Projects/>
-            <Contact />
-        </div>
-    )
+export default function Home() {
+  return (
+    <div>
+      <Navbar />
+      <MainPage />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
+    </div>
+  );
 }
